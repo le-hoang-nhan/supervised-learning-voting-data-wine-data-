@@ -3,3 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/supervised-learning-voting-dat
 
 # supervised-learning-voting-data-wine-data-
 supervised learning with scikit learn
+
+supervised learning with scikit-learn with "United States Congressional Voting Records 1984" data and "Wine Quality" data. 
+
+(KNeighborsClassifier, train_test_split, classification_report, scale, confusion_matrix, StandardScaler, Pipeline, GridSearchCV ...)
