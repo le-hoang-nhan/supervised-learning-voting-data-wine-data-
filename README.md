@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/supervised-learning-voting-dat
 
 See my presentation PowerPoint here: 
 United States Congressional Voting Records
-https://drive.google.com/file/d/1yMwT4_V3TY_TIv9iPTO86G4Z9pPhj7Tp/view?usp=sharing
+https://docs.google.com/presentation/d/1HWbJPiLQbpLzRAzcA3ZeGxqSBe6LRI3z/edit?usp=share_link&ouid=111920116703878991428&rtpof=true&sd=true
 
 Wine Quality data
 https://drive.google.com/file/d/1v2Djh42t8sJ-ESyhiMeWQX8SQ4cpIiLO/view?usp=sharing
